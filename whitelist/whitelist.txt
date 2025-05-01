@@ -154,7 +154,6 @@ tawk.to
 tedcdn.com
 themoviedb.com
 thetvdb.com
-tinyurl.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
 traffic.libsyn.com
