@@ -197,3 +197,9 @@ www.icloud.com
 telemetry.1passwordservices.com
 www.1password.com
 www.googleadservices.com
+t.ly
+www.bit.ly
+bit.ly
+ow.ly
+tinyurl.com
+s.shopify.com
