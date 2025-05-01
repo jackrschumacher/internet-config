@@ -1,0 +1,4 @@
+# jackr light blocklist
+# This list is designed to be as light on the system as possible, only blocking certain critical domains
+#
+mobile.events.data.microsoft.com
