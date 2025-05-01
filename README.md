@@ -17,5 +17,5 @@
 |Fake|hagezi|[Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt)|&#x2611;
 |Hoster|hagezi|[Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt)|&#x2611;
 |Threat Intelligence Feeds|hagezi|[Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt)|&#x2611;
-|Allowlist|jackrschumacher & [anudeepND](https://raw.githubusercontent.com/anudeepND/whitelist/refs/heads/master/domains/whitelist.txt)|[Link](https://raw.githubusercontent.com/jackrschumacher/network-config/refs/heads/main/whitelist.txt)|&#x2611;|&#x2611;
-
+|Allowlist|jackrschumacher & [anudeepND](https://raw.githubusercontent.com/anudeepND/whitelist/refs/heads/master/domains/whitelist.txt)|[Link](https://raw.githubusercontent.com/jackrschumacher/network-config/refs/heads/main/whitelist/whitelist.txt)|&#x2611;|&#x2611;
+|Light|jackr|[link](https://raw.githubusercontent.com/jackrschumacher/network-config/refs/heads/main/blocklist/light.txt)||&#x2611;
